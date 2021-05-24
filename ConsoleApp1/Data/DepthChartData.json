@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "Sport": "NFL",
+      "Positions": [ "QB", "WR", "RB", "TE", "K", "P", "KR", "PR" ]
+    },
+    {
+      "Sport": "MLB",
+      "Positions": [ "SP", "RP", "C", "1B", "2B", "3B", "SS", "LF", "RF", "CF", "DH" ]
+    }
+  ]
+}
